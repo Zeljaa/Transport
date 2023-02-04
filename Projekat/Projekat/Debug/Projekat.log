@@ -1,0 +1,10 @@
+﻿  Linija.cpp
+C:\Users\Vladimir Zeljkovic\source\repos\Projekat\Projekat\Linija.cpp(25,36): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Vladimir Zeljkovic\source\repos\Projekat\Projekat\Linija.cpp(60,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Vladimir Zeljkovic\source\repos\Projekat\Projekat\Linija.cpp(68,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Vladimir Zeljkovic\source\repos\Projekat\Projekat\Linija.cpp(108,16): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Vladimir Zeljkovic\source\repos\Projekat\Projekat\Linija.cpp(111,72): warning C4018: '>': signed/unsigned mismatch
+C:\Users\Vladimir Zeljkovic\source\repos\Projekat\Projekat\Linija.cpp(116,13): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Vladimir Zeljkovic\source\repos\Projekat\Projekat\Linija.cpp(119,74): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+C:\Users\Vladimir Zeljkovic\source\repos\Projekat\Projekat\Linija.cpp(121,133): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+  Projekat.vcxproj -> C:\Users\Vladimir Zeljkovic\source\repos\Projekat\Debug\Projekat.exe
